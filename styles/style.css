@@ -107,7 +107,7 @@
   transition-delay: 0.05s;
 }
 
-/* clicked */
+/* Лайк поставлен */
 
 .like-icon.is-liked .heart {
   transform-origin: center;
